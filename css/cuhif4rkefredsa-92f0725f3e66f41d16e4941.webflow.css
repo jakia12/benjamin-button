@@ -6432,7 +6432,7 @@ img.social {
   }
 }
 .mar_wid {
-  width: 363px;
+  width: 388px;
   padding: 0 7px;
 }
 
@@ -6456,6 +6456,14 @@ img.social {
 }
 .abttl {
   font-size: 3rem;
+}
+.mar_wrapper {
+  gap: 2rem;
+  background-color: #ee009b;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  display: flex;
+  justify-content: center;
 }
 @media screen and (max-width: 768px) {
   .wrapper {
