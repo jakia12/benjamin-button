@@ -6416,7 +6416,7 @@ img.social {
     height: 800px;
   }
   .marqee {
-    opacity: 0;
+    opacity: 1;
 
     border-top: 3px solid #52321a;
     border-bottom: 3px solid #52321a;
