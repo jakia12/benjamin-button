@@ -6454,6 +6454,9 @@ img.social {
   position: fixed;
   padding-top: 26px;
 }
+.abttl {
+  font-size: 3rem;
+}
 @media screen and (max-width: 768px) {
   .wrapper {
     display: grid;
@@ -6473,6 +6476,9 @@ img.social {
     top: 87px;
     left: 174px;
     transform: rotate(-9deg);
+  }
+  .abttl {
+    font-size: 2rem;
   }
 }
 
